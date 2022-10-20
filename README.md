@@ -2,9 +2,20 @@
 
 Movie app projesi geliştirilebilir bir film sitesi projesidir. Python (django) diliyle yazılmıştır. SQL Lite veritabanı projede kullanılmıştır. 
 
- ###### Uygulama **2** kısımdan oluşur:
- - Yönetici paneli
- - Film paneli
+ ## Uygulama **2** kısımdan oluşur:
+ ### - Yönetici paneli
+ ### - Film paneli
+
+Yönetici Paneli'nin görüntüsü aşağıdaki gibidir. Yönetici Panelinde neler yapılabilir:
+- Film ekleme / silme / güncelleme 
+- Oyuncu ekleme / güncelleme / silme 
+- Film kategori ekleme / silme 
+- Yorumları düzenleme 
+- Anasayfadaki sliders kontrolü 
+- Siteye kaydolan kullanıcıların kayıtları 
+
+![image](https://user-images.githubusercontent.com/64837576/196903648-54686cb7-4bde-4015-a9b5-3840852384f4.png)
+
 
  Film panelide kendi içersinde kategorilere ve sayfalara ayrılır:
 
