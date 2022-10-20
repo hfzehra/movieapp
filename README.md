@@ -22,3 +22,4 @@ Movie app projesi geliştirilebilir bir film sitesi projesidir. Python (django) 
 
 
 
+![movies](https://user-images.githubusercontent.com/64837576/196892642-f1a1f69c-6174-4e8a-a58a-1acfbcbf090e.gif)
